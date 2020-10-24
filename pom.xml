@@ -60,7 +60,7 @@ THE SOFTWARE.
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.level>8</java.level>
     <jenkins.version>2.89</jenkins.version>
-    <jetty.version>9.4.17.v20190418</jetty.version>
+    <jetty.version>9.4.33.v20201020</jetty.version>
   </properties>
 
   <dependencyManagement>
